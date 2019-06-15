@@ -1,0 +1,47 @@
+10 tradings over 788 test days
+best:
+trading 0:
+overall return: 0.04765957446808516, average return:0.006808510638297879, trading length:7
+trading 1:
+overall return: 0.028512361099147194, average return:0.009504120366382398, trading length:3
+trading 2:
+overall return: 0.15478991596638658, average return:0.009674369747899161, trading length:16
+trading 3:
+overall return: 0.957342657342657, average return:0.025193227824806763, trading length:38
+trading 4:
+overall return: 0.044049192364170375, average return:0.003670766030347531, trading length:12
+trading 5:
+overall return: 0.3586409395973155, average return:0.01236692895163157, trading length:29
+trading 6:
+overall return: 0.06627410389963544, average return:0.004418273593309029, trading length:15
+trading 7:
+overall return: 0.14448958862366687, average return:0.007604715190719309, trading length:19
+trading 8:
+overall return: 0.14204545454545467, average return:0.00676406926406927, trading length:21
+trading 9:
+overall return: -0.5756688026692174, average return:-0.003327565333348077, trading length:173
+total return:1.0431218338896442
+twc:9
+worst:
+trading 0:
+overall return: -0.11360123647604323, average return:-0.016228748068006175, trading length:7
+trading 1:
+overall return: -0.12095377757893602, average return:-0.04031792585964534, trading length:3
+trading 2:
+overall return: 0.032000000000000035, average return:0.002000000000000002, trading length:16
+trading 3:
+overall return: 0.3929248262792167, average return:0.010340127007347807, trading length:38
+trading 4:
+overall return: -0.06702401082177882, average return:-0.005585334235148235, trading length:12
+trading 5:
+overall return: 0.21457489878542513, average return:0.007399134440876728, trading length:29
+trading 6:
+overall return: -0.08771929824561407, average return:-0.005847953216374271, trading length:15
+trading 7:
+overall return: 0.06500000000000018, average return:0.003421052631578957, trading length:19
+trading 8:
+overall return: 0.03192702394526789, average return:0.0015203344735841852, trading length:21
+trading 9:
+overall return: -0.6145955181888776, average return:-0.0035525752496466914, trading length:173
+total return:-0.5095589195870975
+twc:5

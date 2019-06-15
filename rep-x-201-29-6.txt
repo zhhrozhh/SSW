@@ -1,0 +1,245 @@
+60 tradings over 7009 test days
+best:
+trading 0:
+overall return: -0.019801980198010126, average return:-0.006600660066003375, trading length:3
+trading 1:
+overall return: 0.0236664162284052, average return:0.0007395755071376625, trading length:32
+trading 2:
+overall return: -0.0440967283072469, average return:-0.006299532615320986, trading length:7
+trading 3:
+overall return: 0.184826930190808, average return:0.004507973907092878, trading length:41
+trading 4:
+overall return: -0.11193622351351637, average return:-0.0008111320544457708, trading length:138
+trading 5:
+overall return: 0.10423412292659483, average return:0.0017087561135507349, trading length:61
+trading 6:
+overall return: -0.0879249706916679, average return:-0.0046276300364035735, trading length:19
+trading 7:
+overall return: 0.022388059701490656, average return:0.0011194029850745328, trading length:20
+trading 8:
+overall return: -0.04909090909089254, average return:-0.004462809917353867, trading length:11
+trading 9:
+overall return: 0.045636773024338856, average return:0.0019015322093474524, trading length:24
+trading 10:
+overall return: -0.18898235666932062, average return:-0.0012433049780876356, trading length:152
+trading 11:
+overall return: 0.007648183556420456, average return:0.0025493945188068187, trading length:3
+trading 12:
+overall return: 0.018098247629999054, average return:0.001206549841999937, trading length:15
+trading 13:
+overall return: 0.0840449438202077, average return:0.0076404494382007, trading length:11
+trading 14:
+overall return: 0.00760024301341519, average return:0.0003800121506707595, trading length:20
+trading 15:
+overall return: -0.0010858896461123587, average return:-3.393405144101121e-05, trading length:32
+trading 16:
+overall return: -0.045143087464715806, average return:-0.006449012494959401, trading length:7
+trading 17:
+overall return: -0.045633802816950224, average return:-0.005070422535216692, trading length:9
+trading 18:
+overall return: 0.013333333333275434, average return:0.0013333333333275434, trading length:10
+trading 19:
+overall return: 0.07555555555556581, average return:0.0024372759856634133, trading length:31
+trading 20:
+overall return: 0.26444040946289493, average return:0.0033473469552265183, trading length:79
+trading 21:
+overall return: 0.0856814261069576, average return:0.002763916971192181, trading length:31
+trading 22:
+overall return: 0.06730769230763617, average return:0.0035425101214545352, trading length:19
+trading 23:
+overall return: 0.055214723926426554, average return:0.003067484662579253, trading length:18
+trading 24:
+overall return: 0.03029453015427664, average return:0.002754048195843331, trading length:11
+trading 25:
+overall return: -0.011055831951356178, average return:-0.0007370554634237453, trading length:15
+trading 26:
+overall return: 0.2899876840033157, average return:0.004393752787929026, trading length:66
+trading 27:
+overall return: -0.003710575139126673, average return:-0.00021826912583098077, trading length:17
+trading 28:
+overall return: 0.10340136054422515, average return:0.003976975405547121, trading length:26
+trading 29:
+overall return: 0.052932612312808824, average return:0.002301417926643862, trading length:23
+trading 30:
+overall return: -0.10828025477705887, average return:-0.0045116772823774525, trading length:24
+trading 31:
+overall return: 0.08615084525357598, average return:0.0026922139141742495, trading length:32
+trading 32:
+overall return: 0.1445800359964117, average return:0.004381213212012475, trading length:33
+trading 33:
+overall return: 0.10010213959421642, average return:0.0010649163786618768, trading length:94
+trading 34:
+overall return: -0.0013026487190640047, average return:-0.00013026487190640048, trading length:10
+trading 35:
+overall return: 0.2171297161907894, average return:0.004342594323815788, trading length:50
+trading 36:
+overall return: -0.24577610530268126, average return:-0.0021187595284713904, trading length:116
+trading 37:
+overall return: 0.038241120013944, average return:0.0019120560006972002, trading length:20
+trading 38:
+overall return: -0.07563920454545242, average return:-0.006876291322313857, trading length:11
+trading 39:
+overall return: 0.13231279369714352, average return:0.004009478596883137, trading length:33
+trading 40:
+overall return: 0.0006909612683682328, average return:3.4548063418411644e-05, trading length:20
+trading 41:
+overall return: -0.03024574669190701, average return:-0.006049149338381402, trading length:5
+trading 42:
+overall return: 0.0315416862631404, average return:0.0013713776636147998, trading length:23
+trading 43:
+overall return: 0.16300191204586748, average return:0.0038809979058539875, trading length:42
+trading 44:
+overall return: 0.0, average return:0.0, trading length:23
+trading 45:
+overall return: -0.03215434083598856, average return:-0.0024734108335375815, trading length:13
+trading 46:
+overall return: 0.448733319275823, average return:0.006798989685997318, trading length:66
+trading 47:
+overall return: 0.3530103599501089, average return:0.0017828806058086306, trading length:198
+trading 48:
+overall return: 0.0016638935108296666, average return:6.162568558628395e-05, trading length:27
+trading 49:
+overall return: -0.052631578947399955, average return:-0.00877192982456666, trading length:6
+trading 50:
+overall return: -0.02845849802371162, average return:-0.004065499717673089, trading length:7
+trading 51:
+overall return: -0.11665325824620734, average return:-0.023330651649241467, trading length:5
+trading 52:
+overall return: -0.046625766871157666, average return:-0.005828220858894708, trading length:8
+trading 53:
+overall return: 1.1711839528819827, average return:0.017745211407302768, trading length:66
+trading 54:
+overall return: 0.0014641288433627094, average return:0.0004880429477875698, trading length:3
+trading 55:
+overall return: 0.08248299319725066, average return:0.003749226963511394, trading length:22
+trading 56:
+overall return: -0.0453172205437956, average return:-0.00906344410875912, trading length:5
+trading 57:
+overall return: 0.3418394515163078, average return:0.004497887519951419, trading length:76
+trading 58:
+overall return: -0.08732054047033391, average return:-0.0007527632799166717, trading length:116
+trading 59:
+overall return: -0.03800338944381944, average return:-0.00475042368047743, trading length:8
+total return:11.086883094879255
+worst:
+trading 0:
+overall return: -0.04392156862744658, average return:-0.014640522875815527, trading length:3
+trading 1:
+overall return: -0.03135135135132207, average return:-0.0009797297297288146, trading length:32
+trading 2:
+overall return: -0.08280922431864406, average return:-0.011829889188377723, trading length:7
+trading 3:
+overall return: 0.16028647697323148, average return:0.003909426267639792, trading length:41
+trading 4:
+overall return: -0.1536539874159585, average return:-0.0011134346914199891, trading length:138
+trading 5:
+overall return: 0.06842836933076936, average return:0.001121776546406055, trading length:61
+trading 6:
+overall return: -0.12695652173916241, average return:-0.006681922196798022, trading length:19
+trading 7:
+overall return: -0.03942446043165806, average return:-0.001971223021582903, trading length:20
+trading 8:
+overall return: -0.11111111111108239, average return:-0.01010101010100749, trading length:11
+trading 9:
+overall return: -0.0038902845599990093, average return:-0.00016209518999995873, trading length:24
+trading 10:
+overall return: -0.2282947389864284, average return:-0.0015019390722791342, trading length:152
+trading 11:
+overall return: -0.042618900555906475, average return:-0.014206300185302159, trading length:3
+trading 12:
+overall return: -0.0071042909917382715, average return:-0.0004736193994492181, trading length:15
+trading 13:
+overall return: -0.03165892781762493, average return:-0.0028780843470568116, trading length:11
+trading 14:
+overall return: -0.07813784127059027, average return:-0.003906892063529514, trading length:20
+trading 15:
+overall return: -0.09906123926763905, average return:-0.00309566372711372, trading length:32
+trading 16:
+overall return: -0.1700148809523841, average return:-0.02428784013605487, trading length:7
+trading 17:
+overall return: -0.10246575342463249, average return:-0.011385083713848054, trading length:9
+trading 18:
+overall return: -0.09029726461798417, average return:-0.009029726461798417, trading length:10
+trading 19:
+overall return: -0.018507462686537145, average return:-0.000597014925372166, trading length:31
+trading 20:
+overall return: 0.18619633800930888, average return:0.0023569156710039098, trading length:79
+trading 21:
+overall return: 0.0011204481792849886, average return:3.614348965435447e-05, trading length:31
+trading 22:
+overall return: -0.03656716417910272, average return:-0.0019245875883738273, trading length:19
+trading 23:
+overall return: -0.06496350364963828, average return:-0.0036090835360910157, trading length:18
+trading 24:
+overall return: -0.04451595602040594, average return:-0.0040469050927641765, trading length:11
+trading 25:
+overall return: -0.09510161542467337, average return:-0.0063401076949782245, trading length:15
+trading 26:
+overall return: 0.161197312535368, average return:0.002442383523263152, trading length:66
+trading 27:
+overall return: -0.057653631284917115, average return:-0.0033913900755833597, trading length:17
+trading 28:
+overall return: -0.004448151237139388, average return:-0.00017108273988997646, trading length:26
+trading 29:
+overall return: -0.051570835803197955, average return:-0.0022422102523129545, trading length:23
+trading 30:
+overall return: -0.21052631578945413, average return:-0.00877192982456059, trading length:24
+trading 31:
+overall return: -0.03993902439021807, average return:-0.0012480945121943147, trading length:32
+trading 32:
+overall return: 0.02332755018466404, average return:0.0007068954601413346, trading length:33
+trading 33:
+overall return: -0.036105566302208826, average return:-0.0003841017691724343, trading length:94
+trading 34:
+overall return: -0.11516510395434133, average return:-0.011516510395434134, trading length:10
+trading 35:
+overall return: 0.14951591787631782, average return:0.0029903183575263562, trading length:50
+trading 36:
+overall return: -0.2993922243071234, average return:-0.002580967450923478, trading length:116
+trading 37:
+overall return: -0.10802785123999771, average return:-0.0054013925619998855, trading length:20
+trading 38:
+overall return: -0.19021553198770996, average return:-0.017292321089791816, trading length:11
+trading 39:
+overall return: 0.03563317925136747, average return:0.0010797933106474992, trading length:33
+trading 40:
+overall return: -0.08228482902911029, average return:-0.004114241451455515, trading length:20
+trading 41:
+overall return: -0.09339407744874331, average return:-0.018678815489748663, trading length:5
+trading 42:
+overall return: -0.0710303989935598, average return:-0.0030882782171112954, trading length:23
+trading 43:
+overall return: 0.0593103448276051, average return:0.001412151067323931, trading length:42
+trading 44:
+overall return: -0.11185567010308008, average return:-0.004863290004481742, trading length:23
+trading 45:
+overall return: -0.0829469345698018, average return:-0.006380533428446292, trading length:13
+trading 46:
+overall return: 0.3747496580534082, average return:0.005678025122021336, trading length:66
+trading 47:
+overall return: 0.22963682220378911, average return:0.0011597819303221673, trading length:198
+trading 48:
+overall return: -0.07543443917851884, average return:-0.00279386811772292, trading length:27
+trading 49:
+overall return: -0.12292358803987388, average return:-0.020487264673312314, trading length:6
+trading 50:
+overall return: -0.08131487889275757, average return:-0.011616411270393938, trading length:7
+trading 51:
+overall return: -0.22477744807122557, average return:-0.044955489614245114, trading length:5
+trading 52:
+overall return: -0.15393654524089714, average return:-0.019242068155112143, trading length:8
+trading 53:
+overall return: 0.8550644650916894, average return:0.01295552219835893, trading length:66
+trading 54:
+overall return: -0.08530338794194336, average return:-0.028434462647314456, trading length:3
+trading 55:
+overall return: -0.006129955047005251, average return:-0.0002786343203184205, trading length:22
+trading 56:
+overall return: -0.0932690524754378, average return:-0.01865381049508756, trading length:5
+trading 57:
+overall return: 0.14459543597468322, average return:0.001902571525982674, trading length:76
+trading 58:
+overall return: -0.2932247644188882, average return:-0.0025277996932662776, trading length:116
+trading 59:
+overall return: -0.08249825339666177, average return:-0.01031228167458272, trading length:8
+total return:-0.9381722096836311
